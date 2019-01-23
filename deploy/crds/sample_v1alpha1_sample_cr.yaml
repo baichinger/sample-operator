@@ -1,0 +1,6 @@
+apiVersion: sample.com/v1alpha1
+kind: Sample
+metadata:
+  name: example-sample
+spec:
+  primary: "foo"
